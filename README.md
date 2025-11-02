@@ -1,8 +1,5 @@
-# Hi there, I'm [YOUR_NAME]! 👋
+# Hi there, I'm Noemi! 👋
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZyZ3hrdHhwdGFyZWR1Z3NoMTN5YjZsdjVoOXAwMGFsY2hudXFrcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmYidpbWU0MTU2MDIxMQ/M9gbBd9nbCsMA/giphy.gif" width="200">
-</p>
 
 I'm a student of **Artificial Intelligence and Data Engineering**  at the **University of Pisa**.
 
